@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: graphql.micronaut.demo
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [app-name, gradle, graphql, http-client, java, java-application, junit, logback, netty-server, readme, shade, yaml]
